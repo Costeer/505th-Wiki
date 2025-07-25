@@ -1,4 +1,8 @@
-# the wiki is currently being reworked please wait democratically
+# after much consideration and talks with the Joint Chiefs of Staff the wiki will no longer be updated and is no longer a place to get information!
+
+the wiki was never updated to reflect the changes made in the 505th and is in no way offical documentation all informations regarding ranks, responabilities and structure can be found in their respective channels on the discord.
+
+**that behing said here is the original description:**
 
 This is the remake and the currently maintained version of the wiki. The old and archived version can be found [here](https://github.com/Costeer/101st-Wiki). This wiki is built using Quartz but heavily modifies the default layout.
 
